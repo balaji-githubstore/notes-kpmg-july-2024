@@ -1,0 +1,101 @@
+Installation
+Architecture 
+Datatypes 
+Conditional and Iterative statements
+Methods & Variable - Static vs Non-static
+
+Class & Object 
+
+
+byte, short, int, long, float, double, bool, char
+
+OOPS
+Encapsulation
+Inheritance
+Polymorphism
+	Static polymorphism
+	dynamic polymorphism
+Abstraction
+	Abstract class
+	Interface
+
+
+
+---------------------------------
+
+
+Class 
+	static Methods 
+	non-static methods 
+
+	static Variable 
+	non-static variable 
+
+	Constructor?
+	
+
+	Properties
+
+--------------------------------------
+
+How to call static method?
+Classname.MethodName()
+
+How to call the non-static method?
+Create object 
+Objref.MethodName()
+
+
+----------------------------------
+
+class - Math
+
+static methods 
+	Max()
+	Min()
+	Pow()
+	sqrt()
+
+
+
+
+
+class - ChromeDriver
+
+non-static methods/variable
+	URL
+	Title
+	quit()
+	FindElement()
+	
+
+-------------------------------
+Employee
+
+emppId, empName, empSalary, companyName
+
+
+(101,john,9000,KPMG)
+(102,saul,7000,kpmg)
+(103,kim,6000,kpmg)
+
+
+--------------------------------
+Class - By 
+static methods
+
+a.	Id
+b.	Name
+c.	Class
+d.	Tagname
+e.	Linktext
+f.	Partial linktext
+
+a.	XPath 
+b.	CSS
+
+
+
+
+
+
